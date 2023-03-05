@@ -1,7 +1,5 @@
 # Assets-Trading-App
 
-Try this web app: <a href="https://flaskstockmarket.herokuapp.com/" target="_blank">CLICK HERE</a>
-(current constraint: For the sake of simplicity in the market structure, there is only one stock per company. And the stock price is static)
 
 This is a simple web application built with Flask micro framework.
 
